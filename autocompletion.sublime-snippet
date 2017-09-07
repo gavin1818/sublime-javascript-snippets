@@ -1,0 +1,34 @@
+<snippet>
+	<content><![CDATA[function(${1:arguments}) {
+		${2}
+}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fun</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js, source.jsx, source.ts</scope>
+	<description>Function(){}</description>
+</snippet>
+
+<!--
+<snippet>
+	<content><![CDATA[
+function(${1:arguments}) {
+	${2}
+}
+]]></content>
+	<tabTrigger>afn</tabTrigger>
+	<scope>source.js, source.jsx, source.ts</scope>
+	<description>anonymous function</description>
+</snippet>
+
+<snippet>
+	<content><![CDATA[
+function ${1:methodName}(${2:arguments}) {
+	${3}
+}
+]]></content>
+	<tabTrigger>fn</tabTrigger>
+	<scope>source.js, source.jsx, source.ts</scope>
+	<description>function</description>
+</snippet>
+-->
